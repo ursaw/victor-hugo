@@ -1,3 +1,12 @@
+---
+title: "Segelbundesliga"
+date: 2022-01-01T23:08:43+01:00
+draft: false
+---
+
+
+
+
 # Der EnSFr in der Segelbundesliga
 
 Die Entdecker kommen\.... mit einer Legende am Lenker. Frank Schönfeld,
@@ -82,12 +91,4 @@ Andreas Schmidt besetzt.
 2020
 :   Wiedereinzug in Bundesliga 2022 durch Relegation
 
-::: container
-[[©]{.copyleft}](https://creativecommons.org/licenses/by-sa/4.0/) EnSFr
-2021-12-30   [Rechtliches](recht.html){.btn .btn-default .active}
 
-::: small
-generated with [\<SPSG/>](https://github.com/ursaw/spsg)
-:::
-:::
-:::

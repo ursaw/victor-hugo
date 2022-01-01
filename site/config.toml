@@ -1,4 +1,4 @@
-baseURL = 'https://lucid-johnson-5aa085.netlify.app/'
+baseURL = 'https://ensfr.wihlfahrt.net/'
 languageCode = 'de-de'
 title = 'EnSFr e.V.'
 theme = "hugo-business-frontpage-theme"
@@ -23,11 +23,11 @@ theme = "hugo-business-frontpage-theme"
 
         [[params.navbar.nav]]
         name = "Bundesliga"
-        url = "/bundesliga"
+        url = "bundesliga"
         
         [[params.navbar.nav]]
         name = "25 Jahr Fest"
         url = "#"
         [[params.navbar.nav]]
         name = "Rechtliches"
-        url = "/recht"
+        url = "recht"
