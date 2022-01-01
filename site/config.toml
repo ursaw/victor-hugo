@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://lucid-johnson-5aa085.netlify.app/'
 languageCode = 'de-de'
 title = 'EnSFr'
 theme = "hugo-business-frontpage-theme"
