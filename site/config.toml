@@ -1,6 +1,6 @@
 baseURL = 'https://lucid-johnson-5aa085.netlify.app/'
 languageCode = 'de-de'
-title = 'EnSFr'
+title = 'EnSFr e.V.'
 theme = "hugo-business-frontpage-theme"
 
 [params.footer]
@@ -23,11 +23,11 @@ theme = "hugo-business-frontpage-theme"
 
         [[params.navbar.nav]]
         name = "Bundesliga"
-        url = "articles/bundesliga"
+        url = "/bundesliga"
         
         [[params.navbar.nav]]
         name = "25 Jahr Fest"
         url = "#"
         [[params.navbar.nav]]
         name = "Rechtliches"
-        url = "#"
+        url = "/recht"
