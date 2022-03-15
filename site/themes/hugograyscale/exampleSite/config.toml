@@ -1,0 +1,16 @@
+baseURL = "http://example.com/"
+languageCode = 'de-de'
+title ='EnSFr e.V.'
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Entdecker und Seefahrer Fördervereinigung e.V."
+
+[Author]
+    name = "EnSFr e.V."
+    email = "info@ensfr.de"
+
+
