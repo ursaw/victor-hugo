@@ -1,33 +1,51 @@
 baseURL = 'https://ensfr.wihlfahrt.net/'
+
 languageCode = 'de-de'
-title = 'EnSFr e.V.'
-theme = "hugo-business-frontpage-theme"
-
-[params.footer]
-    copyright = "EnSFr e.V."
-
+title ='EnSFr e.V.'
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
-    author = "EnSFr"
+    # Provide some metadata for search and indexing services
     description = "Entdecker und Seefahrer Fördervereinigung e.V."
-  
-    [params.header]
-        name = "Entdecker und Seefahrer Fördervereinigung e.V."
-        tagline = "Die Entdecker und Seefahrer Fördervereinigung e.V. (EnSFr, DSV-Nr. HA072) ist ein 1982 gegründeter Segelverein mit Sitz in Hamburg."
+
+[Author]
+    name = "EnSFr e.V."
+    email = "info@ensfr.de"
 
 
-    [params.navbar]
-        name = "EnSFr"
-        url = "#"
-
-
-        [[params.navbar.nav]]
-        name = "Bundesliga"
-        url = "bundesliga"
-        
-        [[params.navbar.nav]]
-        name = "25 Jahr Fest"
-        url = "#"
-        [[params.navbar.nav]]
-        name = "Rechtliches"
-        url = "recht"
+# 
+# 
+# languageCode = 'de-de'
+# title = 'EnSFr e.V.'
+# theme = "hugo-business-frontpage-theme"
+# 
+# [params.footer]
+#     copyright = "EnSFr e.V."
+# 
+# 
+# [params]
+#     author = "EnSFr"
+#     description = "Entdecker und Seefahrer Fördervereinigung e.V."
+#   
+#     [params.header]
+#         name = "Entdecker und Seefahrer Fördervereinigung e.V."
+#         tagline = "Die Entdecker und Seefahrer Fördervereinigung e.V. (EnSFr, DSV-Nr. HA072) ist ein 1982 gegründeter Segelverein mit Sitz in Hamburg."
+# 
+# 
+#     [params.navbar]
+#         name = "EnSFr"
+#         url = "#"
+# 
+# 
+#         [[params.navbar.nav]]
+#         name = "Bundesliga"
+#         url = "bundesliga"
+#         
+#         [[params.navbar.nav]]
+#         name = "25 Jahr Fest"
+#         url = "#"
+#         [[params.navbar.nav]]
+#         name = "Rechtliches"
+#         url = "recht"
