@@ -21,11 +21,10 @@ Auf diesen Seiten werden wie im üblichen Sprachgebrauch Warenzeichen oder recht
 ## Impressum  EnSFr e.V.  
 #### 1.Vorsitzender  
 **Klaus Stammerjohann**  
-Warnckesweg 25  
-22453 Hamburg  
+Große Freiheit 77  
+22767 Hamburg  
 Tel. 0172-1999800  
 Fax. 04392-9168193  
-
-#### V.i.d.S.d.P.
+#### V.i.S.d.P
 **Urs Wihlfahrt**
 {{< email email="info@ensfr.de" >}}

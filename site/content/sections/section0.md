@@ -13,3 +13,7 @@ Die Entdecker und Seefahrer Fördervereinigung e.V.
 ist ein 1982 gegründeter Segelverein mit Sitz in Hamburg.
 
 
+Nach langer Abstinenz hat sich der EnSFr für die 
+2.&nbsp;[Segelbundesliga](http://segelbundesliga.de) qualifiziert!
+
+

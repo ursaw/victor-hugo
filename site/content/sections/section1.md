@@ -20,3 +20,21 @@ Wer ist 2016 im Team? Neben Teammanager Klaus Stammerjohann sind dies bei Entdec
 Das Ziel für diese Saison ist es, die Liga zu halten. Dazu wird die J70 von Frank auf der Alster als Trainingsboot genutzt.
 
 In Starnberg segeln die Entdecker 2 mit dem Clown an der Pinne. Das Ziel der neu zusammen gesetzten Mannschaft ist es, sich weit von den Abstiegsrängen fern zu halten. Denn im letzten Jahr legten die Entdecker mit dem letzten Platz in Starnberg einen absoluten Fehlstart hin. Wer sind die anderen Segler? Taktik macht der erfahrene OK- und 505-Segler Matten Jetschke aus Bremen, Trimmer ist der OK-­Segler Jörn Richter. Das Vorschiff wird von dem ehemaligen Kieler 505-Segler und Journalisten Andreas Schmidt besetzt.
+
+
+## Ergebnisse
+
+
+{{<table "table table-striped table-bordered">}}
+| Jahr   | Ergebnis  |     
+| ------ | ------------------------------------------------ |
+| 2013   | nicht angetreten                                 |
+| 2014   | Relegation: Platz 9,   Zweite Liga: Platz 8      |
+| 2015   | Zweite Liga: Platz 11                            |
+| 2016   | Zweite Liga: Klassenerhalt!                      |
+| 2017   | unglücklich in der Relegation gescheitert        |
+| 2018   | unglücklich in der Relegation gescheitert        |
+| 2019   | unglücklich in der Relegation gescheitert        |
+| 2020   | unglücklich in der Relegation gescheitert        |
+| 2021   | **Wiedereinzug in Bundesliga 2022 durch Relegation!** | 
+{{</table>}}
